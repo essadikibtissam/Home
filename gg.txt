@@ -1,0 +1,12 @@
+										      		<div class="col-md-6">
+										      			<p>As part of a collaboration between the Ibn Tofail University of Kénitra (Laboraotire LASTID), the CHU of Nantes and the University of Nantes (RMeS laboratory) in France, we are studying the risk of rupture of intracranial aneurysms. </p>
+										      		</div>
+										      		<div class="col-md-6">
+										      			<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+										      		</div>
+										      	</div>
+
+
+
+
+										<p style="font-size:18px">I'm presently looking for a Data Scientist position with a forward-moving company to contribute with what I learned in the field of Data Science, Machine Learning and Big Data.</p>
